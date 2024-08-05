@@ -1,4 +1,4 @@
 
 <br>
-<img width="100" src="video_results/miffy.gif"/>
+<img width="600" src="video_results/miffy.gif"/>
 <br>
