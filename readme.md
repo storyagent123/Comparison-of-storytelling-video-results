@@ -76,10 +76,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Method 3</a></p>
 <table class="center">
     <tr>
-    <td><img src="animations/TI-AnimateDiff/shot-0.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot-1.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot-2.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot-3.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot00.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot01.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot02.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot03.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot0.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot1.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot2.gif"></td>
