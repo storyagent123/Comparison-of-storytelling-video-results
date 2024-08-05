@@ -22,7 +22,12 @@ Shot3: The bird settles into its cozy nest as the sun sets.
 Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 
 
+
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></td>
     <td><img src="animations/TI-SparseCtrl-realistic/shot1.gif"></td>
