@@ -1,7 +1,8 @@
 ## Q1: Openset subject-Miffy
 <table class="center">
     <tr>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></td>
+    <td><figure><img src="animations/TI-SparseCtrl-realistic/shot0.gif"><figcaption>Description for Shot 0</figcaption></figure></td>
+    <figcaption>Description for Shot 0</figcaption>
     <td><img src="animations/TI-SparseCtrl-realistic/shot1.gif"></td>
     <td><img src="animations/TI-SparseCtrl-realistic/shot2.gif"></td>
     <td><img src="animations/TI-SparseCtrl-realistic/shot3.gif"></td>
