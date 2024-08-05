@@ -1,4 +1,4 @@
-## Q1: Openset subjects
+## Q1: Results on openset subjects
 #### Reference images of Miffy from reference videos:
 <img src="animations/miffy.png" style="width: 10%"><img src="animations/miffy2.png" style="width: 10%"><img src="animations/miffy3.png" style="width: 10%"><img src="animations/miffy4.png" style="width: 10%"><img src="animations/miffy5.png" style="width: 10%">
 #### Story of Miffy (from column 1 to column 4):
@@ -115,9 +115,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：StoryAgent</a></p>
 
 
-## Q3: Results on Pororo dataset
+## Q2: Results on Pororo dataset
 #### Reference images of subject from reference videos:
 From left to right: Loopy, Poby,Eddy, Pororo, Crong.
+
 <img src="animations-pororo/loopy.png" style="width: 10%"><img src="animations-pororo/poby.png" style="width: 10%"><img src="animations-pororo/eddy.png" style="width: 10%"><img src="animations-pororo/pororo.png" style="width: 10%"><img src="animations-pororo/crong.png" style="width: 10%">
 #### From left to right:
 Story1: 
