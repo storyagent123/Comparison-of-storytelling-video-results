@@ -149,7 +149,7 @@ Story8:
     <td><img src="animations-pororo/sparsectrl-TI/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-realistic</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/sparsectrl-lora/Pororo_ENGLISH_story1_merged_video.gif"></td>
