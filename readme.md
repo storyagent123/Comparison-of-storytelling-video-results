@@ -1,7 +1,7 @@
-## Q1: Openset subject-Miffy
-#### Reference images of subject from reference videos:
+## Q1: Openset subjects
+#### Reference images of Miffy from reference videos:
 <img src="animations/miffy.png" style="width: 10%"><img src="animations/miffy2.png" style="width: 10%"><img src="animations/miffy3.png" style="width: 10%"><img src="animations/miffy4.png" style="width: 10%"><img src="animations/miffy5.png" style="width: 10%">
-#### From left to right:
+#### Story of Miffy (from column 1 to column 4):
 Shot1: Miffy wakes up one bright morning, ready to embark on a day filled with adventure.
 
 Shot2: First stop is the bustling town square, where Miffy greets friends.
@@ -10,77 +10,9 @@ Shot3: Miffy explores the enchanting forest, admiring nature's beauty.
 
 Shot4: As the sun sets, Miffy relaxes on the beach, watching the golden hues of twilight.
 
-<table class="center">
-    <tr>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot1.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot2.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-realistic</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/TI-SparseCtrl-cartoon/shot0.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-cartoon/shot1.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-cartoon/shot2.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-cartoon/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-cartoon</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/SVD/shot0.gif"></td>
-    <td><img src="animations/SVD/shot1.gif"></td>
-    <td><img src="animations/SVD/shot2.gif"></td>
-    <td><img src="animations/SVD/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：SVD</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/TI-AnimateDiff/shot0.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot1.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot2.gif"></td>
-    <td><img src="animations/TI-AnimateDiff/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-AnimateDiff</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/DreamVideo/shot0.gif"></td>
-    <td><img src="animations/DreamVideo/shot1.gif"></td>
-    <td><img src="animations/DreamVideo/shot2.gif"></td>
-    <td><img src="animations/DreamVideo/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：DreamVideo</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/Magic-Me/shot0.gif"></td>
-    <td><img src="animations/Magic-Me/shot1.gif"></td>
-    <td><img src="animations/Magic-Me/shot2.gif"></td>
-    <td><img src="animations/Magic-Me/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：Magic-Me</a></p>
-<table class="center">
-    <tr>
-    <td><img src="animations/StoryAgent/shot0.gif"></td>
-    <td><img src="animations/StoryAgent/shot1.gif"></td>
-    <td><img src="animations/StoryAgent/shot2.gif"></td>
-    <td><img src="animations/StoryAgent/shot3.gif"></td>
-    </tr>
-</table>
-<p style="margin-left: 2em; margin-top: -1em">Model：StoryAgent</a></p>
-
-
-
-
-## Q2: Openset subject-Bird
-#### Reference images of subject from reference videos:
+#### Reference images of Bird from reference videos:
 <img src="animations-bird/bird1.png" style="width: 10%"><img src="animations-bird/bird2.png" style="width: 10%"><img src="animations-bird/bird3.png" style="width: 10%"><img src="animations-bird/bird4.png" style="width: 10%">
-#### From left to right:
+#### Story of Bird (from column 5 to column 8):
 Shot1: The bird perches on a mosscovered branch in the heart of a dense forest.
 
 Shot2: The bird hops from branch to branch, observing the forest.
@@ -89,8 +21,13 @@ Shot3: The bird settles into its cozy nest as the sun sets.
 
 Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 
+
 <table class="center">
     <tr>
+    <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-realistic/shot1.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-realistic/shot2.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-realistic/shot3.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-realistic/shot0.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-realistic/shot1.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-realistic/shot2.gif"></td>
@@ -100,6 +37,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-realistic</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/TI-SparseCtrl-cartoon/shot0.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-cartoon/shot1.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-cartoon/shot2.gif"></td>
+    <td><img src="animations/TI-SparseCtrl-cartoon/shot3.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-cartoon/shot0.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-cartoon/shot1.gif"></td>
     <td><img src="animations-bird/TI-SparseCtrl-cartoon/shot2.gif"></td>
@@ -109,6 +50,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-cartoon</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/SVD/shot0.gif"></td>
+    <td><img src="animations/SVD/shot1.gif"></td>
+    <td><img src="animations/SVD/shot2.gif"></td>
+    <td><img src="animations/SVD/shot3.gif"></td>
     <td><img src="animations-bird/SVD/shot0.gif"></td>
     <td><img src="animations-bird/SVD/shot1.gif"></td>
     <td><img src="animations-bird/SVD/shot2.gif"></td>
@@ -118,6 +63,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：SVD</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/TI-AnimateDiff/shot0.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot1.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot2.gif"></td>
+    <td><img src="animations/TI-AnimateDiff/shot3.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot0.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot1.gif"></td>
     <td><img src="animations-bird/TI-AnimateDiff/shot2.gif"></td>
@@ -127,6 +76,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：TI-AnimateDiff</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/DreamVideo/shot0.gif"></td>
+    <td><img src="animations/DreamVideo/shot1.gif"></td>
+    <td><img src="animations/DreamVideo/shot2.gif"></td>
+    <td><img src="animations/DreamVideo/shot3.gif"></td>
     <td><img src="animations-bird/DreamVideo/shot0.gif"></td>
     <td><img src="animations-bird/DreamVideo/shot1.gif"></td>
     <td><img src="animations-bird/DreamVideo/shot2.gif"></td>
@@ -136,6 +89,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：DreamVideo</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/Magic-Me/shot0.gif"></td>
+    <td><img src="animations/Magic-Me/shot1.gif"></td>
+    <td><img src="animations/Magic-Me/shot2.gif"></td>
+    <td><img src="animations/Magic-Me/shot3.gif"></td>
     <td><img src="animations-bird/Magic-Me/shot0.gif"></td>
     <td><img src="animations-bird/Magic-Me/shot1.gif"></td>
     <td><img src="animations-bird/Magic-Me/shot2.gif"></td>
@@ -145,6 +102,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Model：Magic-Me</a></p>
 <table class="center">
     <tr>
+    <td><img src="animations/StoryAgent/shot0.gif"></td>
+    <td><img src="animations/StoryAgent/shot1.gif"></td>
+    <td><img src="animations/StoryAgent/shot2.gif"></td>
+    <td><img src="animations/StoryAgent/shot3.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot0.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot1.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot2.gif"></td>
@@ -152,6 +113,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     </tr>
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Model：StoryAgent</a></p>
+
 
 ## Q3: Results on Pororo dataset
 #### Reference images of subject from reference videos:
