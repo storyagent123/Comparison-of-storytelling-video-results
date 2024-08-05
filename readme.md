@@ -1,7 +1,6 @@
 ## Q1: Openset subject-Miffy
 #### Reference image of subject from reference videos:
-<img src="animations/miffy.png" style="width: 20%"><img src="animations/miffy.png" style="width: 20%">
-
+<img src="animations/miffy.png" style="width: 10%"><img src="animations/miffy2.png" style="width: 10%"><img src="animations/miffy3.png" style="width: 10%"><img src="animations/miffy4.png" style="width: 10%"><img src="animations/miffy5.png" style="width: 10%">
 #### From left to right:
 Shot1: Miffy wakes up one bright morning, ready to embark on a day filled with adventure.
 
