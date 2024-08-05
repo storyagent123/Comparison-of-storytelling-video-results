@@ -152,24 +152,79 @@ From left to right: Loopy, Poby, Eddy, Pororo, Crong.
 #### From left to right:
 ##### Story1:
 Pororo's friends are saying hi to Pororo who is at his door; 
+
 Pororo is pretty upset because of his withered flower; 
+
 Loopy is surprised after hearing what happened to the flower Loopy gave to Pororo; 
+
 Crong brings the flower which turned into a form of seeds to Pororo. They are at the door of Pororo's house.
 
 
-Story2: 
+##### Story2: 
+Loopy lowers her head and shakes her head, Loopy looks sad; 
 
-Story3: 
+Someone calls Loopy, Loopy looks at the door; 
 
-Story4: 
+Crong Pororo Poby and Eddy have come over to Loopy's house; 
 
-Story5: 
+Loopy does not look happy even thought her friends have visited her.
 
-Story6: 
 
-Story7: 
+##### Story3: 
+Eddy Loopy and Crong are standing, Eddy says Eddy can always make another one; 
 
-Story8: 
+Pororo jumps down, Eddy opens Eddy's arms, crong agrees with Eddy; 
+
+Pororo says sorry to Eddy; 
+
+Pororo promises to be more careful.
+
+##### Story4:
+Pororo looks angry and opens Pororo's eyes; 
+
+There are Pororo Loopy and Crong, Pororo lowers his head and then looks up, Crong looks at Pororo and closes his eyes; 
+
+Crong moves his head while holding the table by his right hand; 
+
+Pororo is looking down on the floor, Loopy talks to Pororo and smiles, Pororo looks at Loopy and looks forward.
+
+##### Story5:
+Pororo and crong are in a house, Pororo holds a can linked to a string, Eddy also holds a can linked to a string; 
+
+Eddy talks to the phone; 
+
+Suddenly loopy shows up, Loopy also holds another can in her hand; 
+
+Loopy speaks.
+
+##### Story6:
+Eddy is in a house, there is a big bookshelf behind eddy, Eddy speaks to a can linked to a string; 
+
+Crong and pororo are in a house, Pororo holds a can linked to a string, Pororo pulls the can to crong; 
+
+Crong speaks to the can; 
+
+Pororo smiles happily.
+
+##### Story7:
+Loopy talks to friends something; 
+
+Suddenly Pororo interferes Loopy's speaking, Pororo and Loopy are speaking; 
+
+Suddenly Eddy breaks in on their conversation, Eddy talks to Pororo something, Pororo seems to be out of humor; 
+
+Somebody calls Pororo and Eddy, Pororo Loopy and Eddy are surprised and look in the direction of the sound.
+
+##### Story8:
+Pororo is angry with Crong, Pororo doesn't want Crong do what Crong wants to do now;
+
+Pororo has his arms folded;
+
+Pororo looks at something and gets curious about it;
+
+Pororo smells something strange, Pororo wonders where the smell is coming from.
+
+
 
 <table class="center">
     <tr>
