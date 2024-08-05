@@ -1,9 +1,13 @@
 ## Q1: Openset subject-Miffy
 #### From left to right:
 Shot1: Miffy wakes up one bright morning, ready to embark on a day filled with adventure.
+
 Shot2: First stop is the bustling town square, where Miffy greets friends.
+
 Shot3: Miffy explores the enchanting forest, admiring nature's beauty.
+
 Shot4: As the sun sets, Miffy relaxes on the beach, watching the golden hues of twilight.
+
 <table class="center">
     <tr>
     <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></figure></td>
