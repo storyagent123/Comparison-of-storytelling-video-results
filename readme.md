@@ -34,7 +34,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/TI-SparseCtrl-realistic/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-realistic</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 1</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/TI-SparseCtrl-cartoon/shot0.gif"></td>
@@ -47,7 +47,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/TI-SparseCtrl-cartoon/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl-cartoon</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 2</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/SVD/shot0.gif"></td>
@@ -60,7 +60,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/SVD/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：SVD</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 3</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/TI-AnimateDiff/shot0.gif"></td>
@@ -73,7 +73,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/TI-AnimateDiff/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-AnimateDiff</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 4</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/DreamVideo/shot0.gif"></td>
@@ -86,7 +86,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/DreamVideo/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：DreamVideo</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 5</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/Magic-Me/shot0.gif"></td>
@@ -99,7 +99,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/Magic-Me/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：Magic-Me</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 6</a></p>
 <table class="center">
     <tr>
     <td><img src="animations/StoryAgent/shot0.gif"></td>
@@ -112,7 +112,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="animations-bird/StoryAgent/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：StoryAgent</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 7</a></p>
 
 
 ## Q2: Results on Pororo dataset
@@ -149,7 +149,7 @@ Story8:
     <td><img src="animations-pororo/sparsectrl-TI/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：TI-SparseCtrl</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 1</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/sparsectrl-lora/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -162,7 +162,7 @@ Story8:
     <td><img src="animations-pororo/sparsectrl-lora/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：SparseCtrl-lora</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 2</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/svd/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -175,7 +175,7 @@ Story8:
     <td><img src="animations-pororo/svd/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：SVD</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 3</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/DC/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -188,7 +188,7 @@ Story8:
     <td><img src="animations-pororo/DC/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：DC</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 4</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/DC-lora-only/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -201,7 +201,7 @@ Story8:
     <td><img src="animations-pororo/DC-lora-only/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：DC-lora-only</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 5</a></p>
 <table class="center">
     <tr>
     <td><img src="animations-pororo/StoryAgent/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -214,5 +214,5 @@ Story8:
     <td><img src="animations-pororo/StoryAgent/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：StoryAgent</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method 6</a></p>
 
