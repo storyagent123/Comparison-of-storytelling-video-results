@@ -1,1 +1,4 @@
-![img](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/ourmiffy-image-shot1video_0_0006_sample0-ezgif.com-video-to-gif-converter.gif）
+
+<br>
+<img width="800" src="ourmiffy-image-shot1video_0_0006_sample0-ezgif.com-video-to-gif-converter.gif"/>
+<br>
