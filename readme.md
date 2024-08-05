@@ -150,7 +150,12 @@ From left to right: Loopy, Poby, Eddy, Pororo, Crong.
 
 <img src="animations-pororo/loopy.png" style="width: 10%"><img src="animations-pororo/poby.png" style="width: 10%"><img src="animations-pororo/eddy.png" style="width: 10%"><img src="animations-pororo/pororo.png" style="width: 10%"><img src="animations-pororo/crong.png" style="width: 10%">
 #### From left to right:
-Story1: 
+##### Story1:
+Pororo's friends are saying hi to Pororo who is at his door; 
+Pororo is pretty upset because of his withered flower; 
+Loopy is surprised after hearing what happened to the flower Loopy gave to Pororo; 
+Crong brings the flower which turned into a form of seeds to Pororo. They are at the door of Pororo's house.
+
 
 Story2: 
 
