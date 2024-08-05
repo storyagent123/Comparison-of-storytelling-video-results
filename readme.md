@@ -75,6 +75,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 3</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/TI-AnimateDiff/shot00.gif"></td>
     <td><img src="animations/TI-AnimateDiff/shot01.gif"></td>
