@@ -41,6 +41,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 1</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/TI-SparseCtrl-cartoon/shot0.gif"></td>
     <td><img src="animations/TI-SparseCtrl-cartoon/shot1.gif"></td>
@@ -54,6 +58,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 2</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/SVD/shot0.gif"></td>
     <td><img src="animations/SVD/shot1.gif"></td>
@@ -67,6 +75,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 3</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/TI-AnimateDiff/shot0.gif"></td>
     <td><img src="animations/TI-AnimateDiff/shot1.gif"></td>
@@ -80,6 +92,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 4</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/DreamVideo/shot0.gif"></td>
     <td><img src="animations/DreamVideo/shot1.gif"></td>
@@ -93,6 +109,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 5</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/Magic-Me/shot0.gif"></td>
     <td><img src="animations/Magic-Me/shot1.gif"></td>
@@ -106,6 +126,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method 6</a></p>
 <table class="center">
+  <tr style="line-height: 0">
+    <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
+    <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
+  </tr>
     <tr>
     <td><img src="animations/StoryAgent/shot0.gif"></td>
     <td><img src="animations/StoryAgent/shot1.gif"></td>
