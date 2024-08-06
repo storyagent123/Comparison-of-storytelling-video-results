@@ -198,9 +198,9 @@ Suddenly loopy shows up, Loopy also holds another can in her hand;
 Loopy speaks.
 
 ##### Story6:
-Eddy is in a house, there is a big bookshelf behind eddy, Eddy speaks to a can linked to a string; 
+Eddy is in a house, there is a big bookshelf behind Eddy, Eddy speaks to a can linked to a string; 
 
-Crong and pororo are in a house, Pororo holds a can linked to a string, Pororo pulls the can to crong; 
+Crong and Pororo are in a house, Pororo holds a can linked to a string, Pororo pulls the can to crong; 
 
 Crong speaks to the can; 
 
