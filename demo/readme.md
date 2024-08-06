@@ -29,14 +29,14 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
   </tr>
     <tr>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot0.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot1.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot2.gif"></td>
-    <td><img src="animations/TI-SparseCtrl-realistic/shot3.gif"></td>
-    <td><img src="animations-bird/TI-SparseCtrl-realistic/shot0.gif"></td>
-    <td><img src="animations-bird/TI-SparseCtrl-realistic/shot1.gif"></td>
-    <td><img src="animations-bird/TI-SparseCtrl-realistic/shot2.gif"></td>
-    <td><img src="animations-bird/TI-SparseCtrl-realistic/shot3.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations/TI-SparseCtrl-realistic/shot0.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations/TI-SparseCtrl-realistic/shot1.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations/TI-SparseCtrl-realistic/shot2.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations/TI-SparseCtrl-realistic/shot3.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations-bird/TI-SparseCtrl-realistic/shot0.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations-bird/TI-SparseCtrl-realistic/shot1.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations-bird/TI-SparseCtrl-realistic/shot2.gif"></td>
+    <td><img src="Comparison-of-storytelling-video-results/animations-bird/TI-SparseCtrl-realistic/shot3.gif"></td>
     </tr>
 </table>
 <p style="margin-left: 2em; margin-top: -1em">Method: TI-SparseCtrl-realistic</a></p>
