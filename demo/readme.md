@@ -39,7 +39,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-bird/TI-SparseCtrl-realistic/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Method: TI-SparseCtrl-realistic</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method: TI-SparseCtrl(realistic)</a></p>
 <table class="center">
   <tr style="line-height: 0">
     <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
@@ -56,7 +56,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-bird/TI-SparseCtrl-cartoon/shot3.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Method: TI-SparseCtrl-cartoon</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method: TI-SparseCtrl(cartoon)</a></p>
 <table class="center">
   <tr style="line-height: 0">
     <td colspan="4" style="border: none; text-align: center">Story of Miffy</td>
@@ -251,7 +251,7 @@ Pororo smells something strange, Pororo wonders where the smell is coming from.
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/sparsectrl-lora/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Method: SparseCtrl-LoRA</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method: LoRA-SparseCtrl</a></p>
 <table class="center">
     <tr>
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/svd/Pororo_ENGLISH_story1_merged_video.gif"></td>
@@ -290,7 +290,7 @@ Pororo smells something strange, Pororo wonders where the smell is coming from.
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/DC-lora-only/Pororo_ENGLISH_story8_merged_video.gif"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Method: DC-LoRA-only</a></p>
+<p style="margin-left: 2em; margin-top: -1em">Method: LoRA-DC</a></p>
 <table class="center">
     <tr>
     <td><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/StoryAgent/Pororo_ENGLISH_story1_merged_video.gif"></td>
