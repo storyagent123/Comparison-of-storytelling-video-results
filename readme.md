@@ -131,10 +131,10 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
     <td colspan="4" style="border: none; text-align: center">Story of Bird</td>
   </tr>
     <tr>
-    <td><img src="animations/StoryAgent/shot0.gif"></td>
-    <td><img src="animations/StoryAgent/shot1.gif"></td>
-    <td><img src="animations/StoryAgent/shot2.gif"></td>
-    <td><img src="animations/StoryAgent/shot3.gif"></td>
+    <td><img src="animations/StoryAgent/shot00.gif"></td>
+    <td><img src="animations/StoryAgent/shot01.gif"></td>
+    <td><img src="animations/StoryAgent/shot02.gif"></td>
+    <td><img src="animations/StoryAgent/shot03.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot0.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot1.gif"></td>
     <td><img src="animations-bird/StoryAgent/shot2.gif"></td>
