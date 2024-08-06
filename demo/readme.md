@@ -1,4 +1,4 @@
-## Q1: Results on openset subjects
+## Results on openset subjects
 #### Reference images of Miffy from reference videos:
 <img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations/miffy.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations/miffy2.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations/miffy3.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations/miffy4.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations/miffy5.png" style="width: 10%">
 #### Story of Miffy (from column 1 to column 4):
@@ -144,7 +144,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 <p style="margin-left: 2em; margin-top: -1em">Method: StoryAgent</a></p>
 
 
-## Q2: Results on Pororo dataset
+## Results on Pororo dataset
 #### Reference images of subject from reference videos:
 From left to right: Loopy, Poby, Eddy, Pororo, Crong.
 
