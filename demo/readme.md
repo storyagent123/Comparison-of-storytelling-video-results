@@ -145,7 +145,7 @@ Shot4: The bird goes out from its nest, the entire forest bathed in moonlight.
 
 
 ## Results on Pororo dataset
-#### Reference images of subject from reference videos:
+#### Reference images of subjects from reference videos:
 From left to right: Loopy, Poby, Eddy, Pororo, Crong.
 
 <img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/loopy.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/poby.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/eddy.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/pororo.png" style="width: 10%"><img src="https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/animations-pororo/crong.png" style="width: 10%">
